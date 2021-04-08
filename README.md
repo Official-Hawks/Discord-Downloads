@@ -24,5 +24,3 @@ Get easy access to all the discord clients
 [linux](https://discord.com/api/download?platform=linux)
 
 [osx](https://discord.com/api/download?platform=osx)
-# pingcord
-[pingcord](https://github.com/Pingcord/Pingcord)
